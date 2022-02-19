@@ -3,6 +3,7 @@
 <h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. 
                    I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - 🔭 I’m currently working as a **Junior Software Engineer**
 
 - 🌱 I’m currently learning **everything 🤣**
