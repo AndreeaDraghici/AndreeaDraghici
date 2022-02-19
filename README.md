@@ -7,6 +7,7 @@ I pay attention to details and I like to work as optimally and organized as poss
 Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural and OOP programming, software development, software testing, web development, Agile methodologies.</h3></br>
 
 <br>
+
 - 🔭 I’m currently working as a **Junior Software Engineer in Automotive Industry.**
 
 - 🌱 I’m currently learning **everything.🤣**
