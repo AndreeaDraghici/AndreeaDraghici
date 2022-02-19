@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **draghici108@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view)
+- 📄 Know about my experiences [Click here to see my CV](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view)
 
 - ⚡ Motivation **Is difficult? 
                   Yes. 
