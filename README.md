@@ -48,9 +48,9 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <details>
 <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreeaDraghici&show_icons=true&theme=dracula"/>
-</details>
-<br>
+  <br>
 <h1 align="center">Thank you for visiting my profile!👋</h1>
 </br>
+</details>
 </br>
 
