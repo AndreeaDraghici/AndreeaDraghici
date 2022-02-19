@@ -17,7 +17,8 @@
 
 - 📄 Know about my experiences [Click here to see my CV](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view)
 
-- ⚡ Motivation: **Is difficult? <br>
+- ⚡ Motivation: <br align="center">
+                 **Is difficult? <br>
                   Yes. <br>
                   Deserve? <br>
                   Absolute! <br>
