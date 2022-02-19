@@ -17,9 +17,10 @@
 
 - 📄 Know about my experiences [Click here to see my CV](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view)
 
-- ⚡ Motivation: **Is difficult? Yes. <br>
-                  Deserve? Absolute! <br>
-                  Focused on growth.🔝**
+- ⚡ Motivation:
+                  **Is difficult? Yes. <br>
+                    Deserve? Absolute! <br>
+                    Focused on growth.🔝**
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
