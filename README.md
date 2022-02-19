@@ -4,7 +4,7 @@
 <br><h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. </h3>
 <h3 align="center">                   I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3></br>
 
-
+<br>
 - 🔭 I’m currently working as a **Junior Software Engineer in Automotive Industry.**
 
 - 🌱 I’m currently learning **everything.🤣**
@@ -17,12 +17,12 @@
 
 - 📄 Know about my experiences [Click here to see my CV](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view)
 
-- ⚡ Motivation: **Is difficult? 
-                  Yes. 
-                  Deserve? 
-                  Absolute! 
+- ⚡ Motivation: **Is difficult? <br>
+                  Yes. <br>
+                  Deserve? <br>
+                  Absolute! <br>
                   Focused on growth.🔝**
-
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andreea-draghici-6609331b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreea-draghici-6609331b3/" height="30" width="40" /></a>
