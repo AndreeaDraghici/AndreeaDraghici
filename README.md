@@ -2,7 +2,9 @@
 <h1 align="center">Hello, nice to meet you!👋 My name is Andreea Draghici.😊</h1>
                    
 <br><h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. </h3>
-<h3 align="center">                   I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3></br>
+<h3 align="center">                   I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
+ pay attention to details and I like to work as optimally and organized as possible.💻
+**Expertise:** C, C# and Python (beginner), C++ and Java(intermediate), procedural and OOP programming, software development, software testing, Agile methodologies.</br>
 
 <br>
 - 🔭 I’m currently working as a **Junior Software Engineer in Automotive Industry.**
