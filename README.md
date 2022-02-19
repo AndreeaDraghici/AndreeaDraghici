@@ -45,6 +45,6 @@
 
 </p>
 
-
-<h1 align="center"></h1>
+<p>
 <h1 align="center">Thank you for visiting my profile!👋</h1>
+</p>
