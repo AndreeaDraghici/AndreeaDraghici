@@ -18,16 +18,18 @@
 - 📄 Know about my experiences [Click here to see my CV](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view)
 
 - ⚡ Motivation:
-                  **Is difficult? Yes. <br align="center">
-                    Deserve? Absolute! <br align="center">
+                  **Is difficult? Yes. 
+                    Deserve? Absolute! 
                     Focused on growth.🔝**
 </br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andreea-draghici-6609331b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreea-draghici-6609331b3/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/draghici108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/draghici108" height="30" width="40" /></a>
 </p>
-
+</br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="40" height="40" /> 
@@ -41,7 +43,7 @@
 <img align="left" src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" width="40" height="40" />
 <img align="left" src="https://www.dajac.com/wp-content/uploads/2020/03/autosar_logo_thumbnail.png" width="40" height="40" />
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p>
-
+</br>
 <br>
 <h1 align="center">Thank you for visiting my profile!👋</h1>
 </br>
