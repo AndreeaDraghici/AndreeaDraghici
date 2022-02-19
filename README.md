@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything.🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici?tab=repositories](https://github.com/AndreeaDraghici?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici](https://github.com/AndreeaDraghici?tab=repositories)
 
 - 📫 How to reach me **draghici108@gmail.com**
 
