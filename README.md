@@ -28,8 +28,8 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 </h3></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/andreea-draghici-6609331b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreea-draghici-6609331b3/" height="30" width="40" /></a><a href="draghici108@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/![image](https://user-images.githubusercontent.com/72825756/154820389-d7bbfcc5-0961-4aa3-b3d6-22fae5cbfc9a.png)
-.svg" alt="draghici108@gmail.com" height="30" width="40" /></a><a href="https://www.hackerrank.com/draghici108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/draghici108" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/andreea-draghici-6609331b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreea-draghici-6609331b3/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/draghici108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/draghici108" height="30" width="40" /></a>  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
