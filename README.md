@@ -41,8 +41,8 @@
 <img align="left" src="https://sdtimes.com/wp-content/uploads/2016/05/0517.sdt-gradle.png" width="40" height="40" />
 <img align="left" src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" width="40" height="40" />
 <img align="left" src="https://www.dajac.com/wp-content/uploads/2020/03/autosar_logo_thumbnail.png" width="40" height="40" />
-<img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/>
-</p>
+<img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p>
+
 <p align="left"></p>
 <h1 align="left">Thank you for visiting my profile!👋</h1>
 
