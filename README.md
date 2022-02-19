@@ -8,6 +8,7 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 
 <br>
 <h3>
+  
 - 🔭 I’m currently working as a **Junior Software Engineer in Automotive Industry.**
 
 - 🌱 I’m currently learning **everything.🤣**
@@ -24,8 +25,7 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
                   **Is difficult? Yes. 
                     Deserve? Absolute! 
                     Focused on growth.🔝**
-</h3>
-</br>
+</h3></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andreea-draghici-6609331b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreea-draghici-6609331b3/" height="30" width="40" /></a>
