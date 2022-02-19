@@ -45,5 +45,17 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <img align="left" src="https://www.dajac.com/wp-content/uploads/2020/03/autosar_logo_thumbnail.png" width="40" height="40" />
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p>
 <br>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="AndreeaDraghici GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+
+
+</br>
+
+<br>
 <h1 align="center">Thank you for visiting my profile!👋</h1>
 </br>
