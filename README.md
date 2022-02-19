@@ -47,7 +47,7 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <br>
 <br><details>
 <summary>:zap: GitHub Status</summary>
-  <img align="left" alt="Andreea's GitHub Status" src="https://github-readme-status.vercel.app/api?username=AndreeaDraghici&show_icons=true&theme=dracula"/>
+  <img align="left" alt="Andreea's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=AndreeaDraghici&show_icons=true&theme=dracula"/>
 </details></br>
 
 <br>
