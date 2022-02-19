@@ -45,10 +45,10 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <img align="left" src="https://www.dajac.com/wp-content/uploads/2020/03/autosar_logo_thumbnail.png" width="40" height="40" />
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p>
 <br>
-<br><details>
-<summary>:zap: GitHub Status</summary>
-  <img align="left" alt="Andreea's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=AndreeaDraghici&show_icons=true&theme=dracula"/>
-</details></br>
+<br>
+<summary>:zap: Most Used Languages</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact)](https://github.com/AndreeaDraghici/github-readme-stats)
+ </br>
 
 <br>
 <h1 align="center">Thank you for visiting my profile!👋</h1>
