@@ -1,7 +1,18 @@
 # README.md
 <h1 align="center">Hi 👋, My name is Andreea Draghici</h1>
-<h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. 
-  I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
+<h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
+
+- 🔭 I’m currently working as a **Junior Software Engineer**
+
+- 🌱 I’m currently learning **everything 🤣**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici?tab=repositories](https://github.com/AndreeaDraghici?tab=repositories)
+
+- 📫 How to reach me **draghici108@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view)
+
+- ⚡ Motivation **Is difficult? Yes. Deserve? Absolute! Focused on growth.🔝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
