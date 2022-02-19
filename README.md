@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="60" height="40" /> 
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="40" height="40" /> 
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" />
 <img  src="https://cdn.eduonix.com/assets/images/header_img/2020010211572811392.png" width="50" height="40" />
 <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="40" height="40" />
