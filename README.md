@@ -1,6 +1,7 @@
 # README.md
 <h1 align="center">Hi 👋, My name is Andreea Draghici</h1>
-<h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
+<h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. 
+  I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
