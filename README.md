@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **everything.🤣**
 
-- 👀 I’m interested in **software and web development.**
+- 👀 I’m interested in **software development and web development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici](https://github.com/AndreeaDraghici?tab=repositories)
 
