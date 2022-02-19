@@ -44,10 +44,12 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <img align="left" src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" width="40" height="40" />
 <img align="left" src="https://www.dajac.com/wp-content/uploads/2020/03/autosar_logo_thumbnail.png" width="40" height="40" />
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p>
+
 <br>
 <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreeaDraghici&show_icons=true&theme=radical" />
 </br>
+<br>
 <br>
 <h1 align="center">Thank you for visiting my profile!👋</h1>
 </br>
