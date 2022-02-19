@@ -47,8 +47,8 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <br>
 <br>
 <details>
-<summary>:zap: Most Used Languages</summary>
-<img align="left" alt="Andreea's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact&langs_count=8" />
+<summary>:zap: ​ The most used programming languages by me ​</summary>
+<img align="left" alt="Andreea's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact&langs_count=10" />
   </details>
  </br>
 
