@@ -5,7 +5,7 @@
 <h3 align="center">                   I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
 
 
-- 🔭 I’m currently working as a **Junior Software Engineer.**
+- 🔭 I’m currently working as a **Junior Software Engineer in Automotive Industry.**
 
 - 🌱 I’m currently learning **everything.🤣**
 
