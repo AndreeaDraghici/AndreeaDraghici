@@ -1,4 +1,3 @@
-# README.md
 <h1 align="center">Hello, nice to meet you!👋 My name is Andreea Draghici.😊</h1>
                    
 <br><h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. <br>
