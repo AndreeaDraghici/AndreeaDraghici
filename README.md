@@ -46,10 +46,8 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p>
 <br>
 <br>
-<details>
-<summary>:zap: ​ The most used programming languages by me ​</summary>
+<summary>:zap: **The most used programming languages by me in current projects on github**</summary>
 <img align="center" alt="Andreea's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact&langs_count=10" />
-  </details>
  </br>
 
 <br>
