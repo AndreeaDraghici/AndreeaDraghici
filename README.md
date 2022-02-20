@@ -1,10 +1,10 @@
-<h1 align="center">Hello, nice to meet you!👋 My name is Andreea Draghici.😊</h1>
+<h1 align="center"><b><i>Hello, nice to meet you!👋 My name is Andreea Draghici.</i></b>😊</h1>
                    
 <br><h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. <br>
                   I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
 <h3 align="center">
 I pay attention to details and I like to work as optimally and organized as possible.💻<br>
-Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural and OOP programming, software development, software testing, web development, Agile methodologies.</h3></br>
+<b>Expertise:</b> C, C# and Python (beginner), C++ and Java (intermediate), procedural and OOP programming, software development, software testing, web development, Agile methodologies.</h3></br>
 
 <br>
 <h3>
@@ -26,12 +26,12 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
                     Deserve? Absolute! 
                     Focused on growth.🔝**
 </h3></br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andreea-draghici-6609331b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreea-draghici-6609331b3/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/draghici108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/draghici108" height="30" width="40" /></a>  
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left"> 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="40" height="40" /> 
@@ -50,9 +50,9 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <img align="left" src="https://www.dajac.com/wp-content/uploads/2020/03/autosar_logo_thumbnail.png" width="40" height="40" />
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p><br><br><br><br><br>
 <p align="left">
-<h3>🔻 The most used programming languages by me in current projects on github: 🔻</h3>
+<h3><b>🔻 The most used programming languages by me in current projects on github: 🔻</b></h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact&langs_count=10" /></p></br>
 <br>
 
-<h1 align="center">Thank you for visiting my profile!👋</h1>
+<h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋</h1>
 </br>
