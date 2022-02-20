@@ -1,5 +1,4 @@
 <h1 align="center"><b><i>Hello, nice to meet you!👋 My name is Andreea Draghici.</i></b>😊</h1>
-<img align="center" src="https://gpvc.arturio.dev/AndreeaDraghici" />
                    
 <br><h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. <br>
                   I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
@@ -56,4 +55,5 @@ I pay attention to details and I like to work as optimally and organized as poss
 <br>
 
 <h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋</h1>
+<img align="center" src="https://gpvc.arturio.dev/AndreeaDraghici" />
 </br>
