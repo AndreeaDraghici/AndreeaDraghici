@@ -11,7 +11,7 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
   
 - 🔭 I’m currently working as a **Junior Software Engineer in Automotive Industry.**
 
-- 🌱 I’m currently learning **Web Application Design, Software Engineering, Databases**
+- 🌱 I’m currently learning **Web Application Design, Software Engineering and Databases.**
 
 - 👀 I’m interested in **software development and web development.**
 
