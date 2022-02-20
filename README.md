@@ -54,6 +54,6 @@ I pay attention to details and I like to work as optimally and organized as poss
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact&langs_count=10" /></p></br>
 <br>
 
-<h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋</h1>
-<img align="center" src="https://gpvc.arturio.dev/AndreeaDraghici" />
+<h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋
+<img align="center" src="https://gpvc.arturio.dev/AndreeaDraghici" /></h1>
 </br>
