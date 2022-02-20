@@ -9,11 +9,11 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <br>
 <h3>
   
-- 🔭 I’m currently working as a **Junior Software Engineer in Automotive Industry.**
+- 🔭 I’m currently working as a **Junior Software Engineer in Automotive Industry .**
 
-- 🌱 I’m currently learning **Web Application Design, Software Engineering and Databases.**
+- 🌱 I’m currently learning **Web Application Design, Software Engineering and Databases .**
 
-- 👀 I’m interested in **software development and web development.**
+- 👀 I’m interested in **software development and web development .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici](https://github.com/AndreeaDraghici?tab=repositories) .
 
