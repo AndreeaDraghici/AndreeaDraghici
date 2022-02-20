@@ -32,7 +32,8 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 <a href="https://www.hackerrank.com/draghici108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/draghici108" height="30" width="40" /></a>  
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+<p align="left"> 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="40" height="40" /> 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40" />
 <img  align="left" src="https://cdn.eduonix.com/assets/images/header_img/2020010211572811392.png" width="50" height="40" />
