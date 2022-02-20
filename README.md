@@ -15,11 +15,11 @@ Expertise: C, C# and Python (beginner), C++ and Java (intermediate), procedural 
 
 - 👀 I’m interested in **software development and web development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici](https://github.com/AndreeaDraghici?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici](https://github.com/AndreeaDraghici?tab=repositories) .
 
-- 📫 How to reach me **draghici108@gmail.com**
+- 📫 How to reach me **draghici108@gmail.com** .
 
-- 📄 Know about my experiences [Click here to see my CV](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view)
+- 📄 Know about my experiences [Click here to see my CV](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view) .
 
 - ⚡ Motivation:
                   **Is difficult? Yes. 
