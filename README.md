@@ -9,7 +9,7 @@ I pay attention to details and I like to work as optimally and organized as poss
 <br>
 <h3>
   
-- 🔭 I’m currently working as a **Junior Software Engineer in Automotive Industry .**
+- 🔭 I’m currently working as a **Junior Software Developer in Automotive Industry .**
 
 - 🌱 I’m currently learning **Web Application Design, Software Engineering and Databases .**
 
