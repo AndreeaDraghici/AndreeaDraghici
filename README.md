@@ -55,7 +55,7 @@ I pay attention to details and I like to work as optimally and organized as poss
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p><br><br><br><br><br>
 <p align="left">
 <h3><b>🔻 The most used programming languages by me in current projects on github: 🔻</b></h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact&langs_count=50" /></p></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact&langs_count=15" /></p></br>
 <br>
 
 <h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋
