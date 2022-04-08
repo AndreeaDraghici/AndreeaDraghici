@@ -54,8 +54,6 @@ I pay attention to details and I like to work as optimally and organized as poss
 <img align="left" src="https://www.dajac.com/wp-content/uploads/2020/03/autosar_logo_thumbnail.png" width="45" height="45" />
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p><br><br><br><br><br>
 <p align="left">
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact&langs_count=10" /></p></br>
 
 <h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋
 <img align="center" src="https://gpvc.arturio.dev/AndreeaDraghici" /></h1>
