@@ -17,10 +17,6 @@ I pay attention to details and I like to work as optimally and organized as poss
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici](https://github.com/AndreeaDraghici?tab=repositories) .
 
-- 📫 How to reach me **draghici108@gmail.com** .
-
-- 📄 Know about my experiences [Click here to see my CV](https://drive.google.com/file/d/1kaFWZWAK9-OLYAnskJqbQML1IVgdocta/view) .
-
 - ⚡ Motivation:
                   **Is difficult? Yes. 
                     Deserve? Absolute! 
