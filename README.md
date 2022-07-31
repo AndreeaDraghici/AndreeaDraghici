@@ -1,6 +1,6 @@
 <h1 align="center"><b><i>Hello, nice to meet you!👋 My name is Andreea Draghici.</i></b>😊</h1>
                    
-<br><h3 align="center">I am a student at the Faculty of Automation, Computers and Electronics in Craiova, in the third year. <br>
+<br><h3 align="center">I am a student at the University of Craiova, Faculty of Automation, Computers and Electronics, in the last year. <br>
                   I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
 <h3 align="center">
 I pay attention to details and I like to work as optimally and organized as possible.💻<br>
