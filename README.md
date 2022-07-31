@@ -11,7 +11,7 @@ I pay attention to details and I like to work as optimally and organized as poss
   
 - 🔭 I’m currently working as a **Software Developer in Automotive Industry .**
 
-- 🌱 I’m currently learning **Web Application Design, Software Engineering and Databases .**
+- 🌱 I’m currently learning **JavaScript and Web Front-end.**
 
 - 👀 I’m interested in **software development and web development .**
 
