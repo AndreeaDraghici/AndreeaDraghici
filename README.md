@@ -11,10 +11,6 @@ I pay attention to details and I like to work as optimally and organized as poss
   
 - 🔭 I’m currently working as a **Software Developer in Automotive Industry .**
 
-- 🌱 I’m currently learning **JavaScript and Web Front-end.**
-
-- 👀 I’m interested in **software development and web development .**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici](https://github.com/AndreeaDraghici?tab=repositories) .
 
 - ⚡ Motivation:
