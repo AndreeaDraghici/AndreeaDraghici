@@ -19,10 +19,7 @@ I pay attention to details and I like to work as optimally and organized as poss
 </h3></br>
 <h3 align="left">### 📊 Github Stats
 <a href='https://github.com/AndreeaDraghici/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/AndreeaDraghici/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/AndreeaDraghici/github-stats-transparent/output/generated/languages.svg)
-
+![Most Used Languages](https://github.com/AndreeaDraghici?tab=repositories/github-stats-transparent/output/generated/languages.svg)
 </a>
 </h3>  
 <h3 align="left"><b>Connect with me:</b></h3>
