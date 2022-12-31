@@ -18,10 +18,9 @@ I pay attention to details and I like to work as optimally and organized as poss
                     Focused on growth.🔝**
 </h3></br>
 <h3 align="left">📊 Github Status
- <br>
-  
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&theme=tokyonight)
-  <br>
+</br>
 </h3>  
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
