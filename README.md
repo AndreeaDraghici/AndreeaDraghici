@@ -19,7 +19,7 @@ I pay attention to details and I like to work as optimally and organized as poss
 </h3></br>
 <h3 align="left">📊 Github Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/pin/?username=AndreeaDraghici&repo=github-readme-stats&show_owner=true)]([https://github.com/anuraghazra](https://github.com/AndreeaDraghici)/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/pin/?username=AndreeaDraghici&repo=github-readme-stats&show_owner=true)](https://github.com/AndreeaDraghici)/github-readme-stats)
 
 </h3>  
 <h3 align="left"><b>Connect with me:</b></h3>
