@@ -17,9 +17,9 @@ I pay attention to details and I like to work as optimally and organized as poss
                     Deserve? Absolute! 
                     Focused on growth.🔝**
 </h3></br>
-<h3 align="left">### 📊 Github Stats
+<h3 align="left">📊 Github Stats
 <a href='https://github.com/AndreeaDraghici/github-stats-transparent'>
-![Most Used Languages](https://github.com/AndreeaDraghici?tab=repositories/github-stats-transparent/output/generated/languages.svg)
+![Most Used Languages](https://github.com/AndreeaDraghici/github-stats-transparent/output/generated/languages.svg)
 </a>
 </h3>  
 <h3 align="left"><b>Connect with me:</b></h3>
