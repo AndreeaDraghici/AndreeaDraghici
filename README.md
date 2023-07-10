@@ -49,5 +49,4 @@ I pay attention to details and I like to work as optimally and organized as poss
 <p align="left">
 
 <h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋
-<img align="center" src="https://gpvc.arturio.dev/AndreeaDraghici" /></h1>
 </br>
