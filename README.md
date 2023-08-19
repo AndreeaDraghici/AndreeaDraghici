@@ -33,7 +33,7 @@ I pay attention to details and I like to work as optimally and organized as poss
 
 --------------------------------------------------------
 
-<h3 align="left"><b>Languages and Tools:</b></h3>
+<h3 align="left"><b>### :hammer_and_wrench: Languages and Tools:</b></h3>
 <p align="left"> 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="40" height="40" /> 
