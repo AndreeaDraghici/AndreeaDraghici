@@ -1,8 +1,8 @@
 <h1 align="center"><b><i>Hello, nice to meet you!👋 My name is Andreea Draghici.</i></b>😊</h1>
+         ---
 
+### :woman_technologist: About Me :
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/EOmYN5kVP3W2Lyn6dx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx">via GIPHY</a></p>
-                   
 <br><h3 align="center">
                   I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
 <h3 align="center">
@@ -22,11 +22,16 @@ I pay attention to details and I like to work as optimally and organized as poss
 </h3></br>
 
 </h3>  
+        ---
+
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andreea-draghici-6609331b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreea-draghici-6609331b3/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/draghici108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/draghici108" height="30" width="40" /></a>  
 </p>
+
+      ---
+
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left"> 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
