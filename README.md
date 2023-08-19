@@ -4,7 +4,7 @@
 
 ### :woman_technologist: About Me :
 
-<br><h3 align="center">
+<h3 align="center">
                   I am an optimistic, responsible and curious person. I am passionate about technology and I am an curious to deepen as many new notions as possible.</h3>
 <h3 align="center">
 I pay attention to details and I like to work as optimally and organized as possible.💻<br>
@@ -22,7 +22,7 @@ I pay attention to details and I like to work as optimally and organized as poss
                     Focused on growth.🔝**
 
 --------------------------------------------------------
-</h3></br>
+</h3>
 </h3>  
 
 <h3 align="left"><b>Connect with me:</b></h3>
