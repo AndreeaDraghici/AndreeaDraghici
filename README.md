@@ -66,6 +66,10 @@ I pay attention to details and I like to work as optimally and organized as poss
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=AndreeaDraghici&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaDraghici&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </h1>
 
 <h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋
