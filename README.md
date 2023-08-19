@@ -31,7 +31,7 @@ I pay attention to details and I like to work as optimally and organized as poss
 <a href="https://www.linkedin.com/in/andreea-draghici-6609331b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreea-draghici-6609331b3/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/draghici108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/draghici108" height="30" width="40" /></a>  
 </p>
-
+</br>
 --------------------------------------------------------
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -60,8 +60,9 @@ I pay attention to details and I like to work as optimally and organized as poss
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p><br><br><br><br><br>
 <p align="left">
 
-  
----
+</br>
+
+------------------------------------------------
 ### :fire: My Stats :
 <h1 align="center">
   
