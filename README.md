@@ -60,9 +60,7 @@ I pay attention to details and I like to work as optimally and organized as poss
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p><br><br><br><br><br>
 <p align="left">
 
-</br>
-
-------------------------------------------------
+------------
 ### :fire: My Stats :
 <h1 align="center">
   
