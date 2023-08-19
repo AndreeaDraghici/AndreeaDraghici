@@ -20,6 +20,8 @@ I pay attention to details and I like to work as optimally and organized as poss
                   **Is difficult? Yes. 
                     Deserve? Absolute! 
                     Focused on growth.🔝**
+
+--------------------------------------------------------
 </h3></br>
 </h3>  
 
