@@ -60,11 +60,12 @@ I pay attention to details and I like to work as optimally and organized as poss
 <p align="left">
   
 ---
-
+<h1 align="center">
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreeaDraghici&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndreeaDraghici&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
+</h1>
 
 <h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋
 </br>
