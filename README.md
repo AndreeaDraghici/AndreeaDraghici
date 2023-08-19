@@ -58,11 +58,13 @@ I pay attention to details and I like to work as optimally and organized as poss
 <img align="left" src="https://www.webopedia.com/wp-content/uploads/1997/02/Webo.OracleProfile-300x300.png" width="45" height="45" />
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p><br><br><br><br><br>
 <p align="left">
+  
 ---
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=AndreeaDraghici
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreeaDraghici&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋
 </br>
