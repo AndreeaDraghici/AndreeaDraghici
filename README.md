@@ -1,6 +1,5 @@
 <h1 align="center"><b><i>Hello, nice to meet you!👋 My name is Andreea Draghici.</i></b>😊</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreeadraghici&label=Profile%20views&color=0e75b6&style=flat" alt="andreeadraghici" /> </p>
 --------------------------------------------------------
 
 ### About Me :
@@ -63,11 +62,19 @@ I pay attention to details and I like to work as optimally and organized as poss
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p><br><br><br><br><br>
 <p align="left">
 
+
 ------------
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreeadraghici&show_icons=true&locale=en&layout=compact" alt="andreeadraghici" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreeadraghici&show_icons=true&locale=en" alt="andreeadraghici" /></p>
 </h1>
+
+
+------------------------
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreeadraghici&label=Profile%20views&color=0e75b6&style=flat" alt="andreeadraghici" /> </p>
+
 
 <h1 align="center"><b><i>Thank you for visiting my profile!</i></b>👋
 </br>
