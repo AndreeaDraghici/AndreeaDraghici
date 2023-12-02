@@ -65,11 +65,17 @@ I pay attention to details and I like to work as optimally and organized as poss
 <p align="left">
 
 
+<br>
+
+--------------------------------------------------------
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreeadraghici&show_icons=true&locale=en&layout=compact" alt="andreeadraghici" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreeadraghici&show_icons=true&locale=en" alt="andreeadraghici" /></p>
 </h1>
 
+
+<br>
 
 ------------------------
 
