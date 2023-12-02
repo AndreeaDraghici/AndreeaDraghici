@@ -58,11 +58,13 @@ I pay attention to details and I like to work as optimally and organized as poss
 <img align="left" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" width="50" height="50" />
 <img align="left" src="https://www.webopedia.com/wp-content/uploads/1997/02/Webo.OracleProfile-300x300.png" width="45" height="45" />
 <img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-<img align="left" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+<img align="left" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"  width="45" height="45"/>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <img align="left" src="https://c0.klipartz.com/pngpicture/170/924/gratis-png-base-de-datos-de-microsoft-sql-server-sql-microsoft-azure-sql-thumbnail.png" width="40" height="40"/></p><br><br><br><br><br>
 <p align="left">
+
+
 
 
 ------------
