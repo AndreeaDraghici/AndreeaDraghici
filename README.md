@@ -12,7 +12,7 @@ I pay attention to details and I like to work as optimally and organized as poss
 
 <h3>
   
-- 🔭 I’m currently working as a **Software Engineer in Automotive Industry using technologies like Java, Java Core APIs, Hibernate, JavaFX, and Apache POI to create desktop GUI or CLI applications, or other techologies like Python (pywinauto API).**
+- 🔭 I’m currently working as a **Software Engineer in Automotive Industry using technologies like Java, Java Core APIs, Hibernate, JavaFX, and Apache POI to create desktop GUI or CLI applications, or other techologies like Python and Django Framework to building web application with REST APIs and enhancing user experiences with front-end technologies like HTML, CSS, JavaScript, AJAX and jQuery.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreeaDraghici](https://github.com/AndreeaDraghici?tab=repositories).
 
